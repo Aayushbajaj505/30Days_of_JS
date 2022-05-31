@@ -1,7 +1,5 @@
-/*jshint esversion: 7 */
-
-/** LEVEL 2 Challenges Functions **/    
-
+/*jshint esversion: 7 */   
+ 
 // 2: solve quardratic equation      
 let solveQuadEquation = function(a, b, c) {
     let disc = Math.pow(b, 2) - 4*a*c;
